@@ -17,7 +17,7 @@ const Controller = () => {
     setIsLoading(true);
 
     // Append recorded message to messages
-    const myMessage = { sender: "me", blobUrl };
+    const myMessage = { sender: "asad", blobUrl };
     const messagesArr = [...messages, myMessage];
 
     // convert blob url to blob object

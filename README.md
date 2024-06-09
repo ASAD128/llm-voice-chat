@@ -83,7 +83,7 @@ uvicorn main:app
 Alternatively, you can ensure your server resets every time you make a change by typing:
 
 ```shell
-uvicorn main:app -- reload
+uvicorn main:app --reload
 ```
 
 You can check your server is working by going to:
