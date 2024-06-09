@@ -1,4 +1,14 @@
-# Instructions
+# LLM Voice Chat
+Human Sounding AI Voice Chat Assistant, powered by OpenAI and Eleven Labs APIs.
+
+Technologies used :
+ - Backend: Python with FAST API 
+ - Frondend: React.js and Tailwind.css
+
+## Demo
+
+https://github.com/ASAD128/llm-voice-chat/assets/22412472/30cb52ca-e869-4bdd-bff1-97574fde05ea
+
 
 ## Download
 
@@ -13,7 +23,7 @@ git clone https://github.com/asad128/llm-voice-chat.git
 Change directory into backend
 
 ```shell
-cd chatbot/backend
+cd llm-voice-chat/backend
 ```
 
 ### Setup virtual environment
@@ -98,7 +108,7 @@ Change directory into frontend
 
 ```shell
 cd ..
-cd chatbot/frontend
+cd llm-voice-chat/frontend
 ```
 
 Install packages
